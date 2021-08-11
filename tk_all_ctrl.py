@@ -66,3 +66,5 @@ labeledscale.value = -20
 labeledscale.grid(row=3,column=2,padx=5,pady=5)
 tk.Message(win,text="This is a \nMessage.\nHello!").grid(row=2,column=3,rowspan=2,padx=5,pady=5)
 win.mainloop()
+
+# check 1 check2
