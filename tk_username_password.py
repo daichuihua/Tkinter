@@ -43,3 +43,6 @@ btQuit = tk.Button(win,text="退出",command=win.quit)
 #点击btQuit会执行win.quit()，win.quit()导致窗口关闭，于是整个程序结束
 btQuit.grid(row=4,column=1,pady=5)
 win.mainloop()
+
+
+# try11111
